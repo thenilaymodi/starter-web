@@ -13,3 +13,7 @@ This is purpose.
 ## Deployment
 
 This is deployment.
+
+## Copyright
+
+2016 Git Training
