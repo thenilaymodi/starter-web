@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Sample webpage. Adding a line for rebase example
+Sample webpage. Adding a line for rebase example, then more changes from my feature branch
 
 ## Introduction
 
