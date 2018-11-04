@@ -14,6 +14,10 @@ This is purpose.
 
 This is deployment.
 
+## Contrbiute
+
+Please fork this repo
+
 ## Copyright
 
 2016 Git Training
