@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Sample webpage.
+Sample webpage. Adding a line for rebase example
 
 ## Introduction
 
